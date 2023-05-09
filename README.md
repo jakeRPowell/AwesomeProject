@@ -1,6 +1,10 @@
 # My First React Native App
 This is my first React Native app, created as a part of my journey to learn mobile app development. The app is a simple goal-setting app that allows users to add and view their goals.
 
+
+![Android_Emulator_-_Pixel_3a_API_33_x86_64_5554_2023-05-09_10-57-24_AdobeExpress](https://user-images.githubusercontent.com/43782301/237063278-48fea5d3-d1d0-4850-9b06-97e189b25870.gif)
+
+
 ## Features
 - Display a list of added goals
 - Add new goals by opening a modal with a form
@@ -37,4 +41,4 @@ Alternatively, you can tap outside the modal to close it without adding a new go
 - Expo
 
 Acknowledgments
-This app was created with the help of online tutorials and resources, primarily the Academind react native course on Udemy. Thank you to the React Native and Expo communities for their contributions and support.
+This app was created with the help of online tutorials and resources, primarily the Academind react native course on Udemy. Thank you to the React Native and Expo communities for their contributions.
